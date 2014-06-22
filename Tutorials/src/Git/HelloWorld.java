@@ -6,6 +6,8 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 
 		System.out.println("Learning to use git in eclipse!");
+		
+		System.out.println("Test 1");
 	}
 
 }
